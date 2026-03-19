@@ -42,7 +42,7 @@ agricultural-clustering/
 
 ⚙️ Setup & Installation
 1. Clone the repository
-bashgit clone https://github.com/mysterious1006/agricultural-clustering.git
+bashgit clone https://github.com/mysterious1006/Agri-Clustering.git
 cd agricultural-clustering
 2. Create a virtual environment (recommended)
 bashpython -m venv venv
